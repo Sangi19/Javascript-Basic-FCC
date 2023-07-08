@@ -292,10 +292,9 @@ to match only the letter a appearing between 3 and 5 times in the string ah, you
 
 ## Basic Data Structures
 <h1 align="center"> Basic Data Structures </h1>
-
 <p>Data can be stored and accessed in many ways. You already know some common JavaScript data structures — arrays and objects.
-
-In this Basic Data Structures course, you'll learn more about the differences between arrays and objects, and which to use in different situations. You'll also learn how to use helpful JS methods like splice() and Object.keys() to access and manipulate data.
+We will learn more about the differences between arrays and objects, and which to use in different situations. 
+We'll also learn how to use helpful JS methods like splice() and Object.keys() to access and manipulate data.
 </p>
 
 ### Use an Array to Store a Collection of Data
